@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body {
+	backround: gray;
+}
 header h3 {
     text-align: center;
     margin: 10px;
